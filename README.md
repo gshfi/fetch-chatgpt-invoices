@@ -48,9 +48,9 @@ export CHAT_GPT_ACCESS_TOKEN="your-access-token"
 ## ▶️ How to Run the Script
 
 Once your access token is set, simply run:
-
+```
 python get_invoices_openapi.py
-
+```
 The script will:
 
 - Verify your access token
