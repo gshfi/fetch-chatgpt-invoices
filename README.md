@@ -13,10 +13,6 @@ Invoices are saved to:
 ---
 
 ## ⚙️ Requirements
-
-- Python 3.8+
-- [Playwright](https://playwright.dev/python) (for Chromium automation)
-
 Install the required packages:
 
 ```bash
