@@ -53,15 +53,11 @@ python get_invoices_openapi.py
 
 The script will:
 
-    Verify your access token
-
-    Get the Stripe invoice portal URL
-
-    Collect all invoice download links
-
-    Download each PDF invoice and save it to invoices/openai/
-
-    Skip invoices that are already downloaded
+- Verify your access token
+- Get the Stripe invoice portal URL
+- Collect all invoice download links
+- Download each PDF invoice and save it to invoices/openai/
+- Skip invoices that are already downloaded
 
 ## 📁 Output
 
